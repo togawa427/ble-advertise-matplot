@@ -1,0 +1,5 @@
+users,time,user_state,status
+100,0.06560137499945995,NonRegisterd,{'status': 'OK'}
+200,0.06508116700024402,NonRegisterd,{'status': 'OK'}
+300,0.06329254200136347,NonRegisterd,{'status': 'OK'}
+400,0.04614258400033577,NonRegisterd,{'status': 'OK'}
