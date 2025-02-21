@@ -1,5 +1,9 @@
 users,time,user_state,status
-100,0.06560137499945995,NonRegisterd,{'status': 'OK'}
-200,0.06508116700024402,NonRegisterd,{'status': 'OK'}
-300,0.06329254200136347,NonRegisterd,{'status': 'OK'}
-400,0.04614258400033577,NonRegisterd,{'status': 'OK'}
+100,6.081911792018218,Registerd,{'status': 'OK'}
+100,4.485129624983529,NonRegisterd,{'status': 'OK'}
+200,4.88974570800201,Registerd,{'status': 'OK'}
+200,4.968641250015935,NonRegisterd,{'status': 'OK'}
+300,5.164475666999351,Registerd,{'status': 'OK'}
+300,4.961787916981848,NonRegisterd,{'status': 'OK'}
+400,5.162140041997191,Registerd,{'status': 'OK'}
+400,4.6307494579814374,NonRegisterd,{'status': 'OK'}
